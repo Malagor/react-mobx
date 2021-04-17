@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import 'index.css';
+import App from 'components/App/App';
+import reportWebVitals from 'reportWebVitals';
+import { CounterProvider } from './store/counterContext';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <CounterProvider>
+      <App />
+    </CounterProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
