@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9691f673-f8d2-40e1-8f28-cc480bf0d996" name="Default Changelist" comment="feat: counter with store by MobX">
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Counter/Counter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Counter/styles.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/counterContext.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/counterStore.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
     <execution>
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rJ9iS9REVnN0DNBnbzhXMSPDtf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -15,10 +63,98 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\Projects\react-basic\react-mobx\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="D:\Projects\react-basic\react-mobx\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\react-basic\react-mobx\src\components" />
+      <recent name="D:\Projects\react-basic\react-mobx\src\components\App" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9691f673-f8d2-40e1-8f28-cc480bf0d996" name="Default Changelist" comment="" />
+      <created>1618683452807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618683452807</updated>
+      <workItem from="1618683454556" duration="6116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: counter with store by MobX" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: counter with store by MobX" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="315" key="#com.intellij.ide.util.MemberChooser" timestamp="1618690074686">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state x="265" y="315" key="#com.intellij.ide.util.MemberChooser/0.40.2048.1112@0.40.2048.1112" timestamp="1618690074686" />
+    <state x="190" y="350" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618684810738">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state x="190" y="350" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.2048.1112@0.40.2048.1112" timestamp="1618684810738" />
+    <state x="20" y="194" width="866" height="810" key="CommitChangelistDialog2" timestamp="1618691226476">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state x="20" y="194" width="866" height="810" key="CommitChangelistDialog2/0.40.2048.1112@0.40.2048.1112" timestamp="1618691226476" />
+    <state x="182" y="378" key="EditFileWatcherDialog" timestamp="1618685418027">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state x="182" y="378" key="EditFileWatcherDialog/0.40.2048.1112@0.40.2048.1112" timestamp="1618685418027" />
+    <state width="660" height="304" key="GridCell.Tab.0.bottom" timestamp="1618686868944">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="660" height="304" key="GridCell.Tab.0.bottom/0.40.2048.1112@0.40.2048.1112" timestamp="1618686868944" />
+    <state width="660" height="304" key="GridCell.Tab.0.center" timestamp="1618686868944">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="660" height="304" key="GridCell.Tab.0.center/0.40.2048.1112@0.40.2048.1112" timestamp="1618686868943" />
+    <state width="660" height="304" key="GridCell.Tab.0.left" timestamp="1618686868943">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="660" height="304" key="GridCell.Tab.0.left/0.40.2048.1112@0.40.2048.1112" timestamp="1618686868943" />
+    <state width="660" height="304" key="GridCell.Tab.0.right" timestamp="1618686868944">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state width="660" height="304" key="GridCell.Tab.0.right/0.40.2048.1112@0.40.2048.1112" timestamp="1618686868944" />
+    <state x="22" y="242" key="SettingsEditor" timestamp="1618685421230">
+      <screen x="0" y="40" width="2048" height="1112" />
+    </state>
+    <state x="22" y="242" key="SettingsEditor/0.40.2048.1112@0.40.2048.1112" timestamp="1618685421230" />
   </component>
 </project>
